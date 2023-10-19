@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CapyCoin Blockchain](https://github.com/LuisFern873/BlockChain-Project)
 
-- 🌱 I’m currently learning **Cloud Computing and Database Systems**
+- 🌱 I’m currently learning **Software Development and Algorithm Design**
 
 - 📫 How to reach me **luis.mendez.l@utec.edu.pe**
 
