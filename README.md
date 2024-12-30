@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-fernando-m%C3%A9ndez-l%C3%A1zaro-709b27221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis fernando méndez lázaro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mendezluisfernando8551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mendezluisfernando8551" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@luisfeerxxo/streams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mendezluisfernando8551" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
