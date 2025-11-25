@@ -41,15 +41,6 @@ I enjoy transforming data into scalable solutions, designing high-impact pipelin
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfern873&show_icons=true&locale=en&layout=compact" alt="luisfern873" />
-</p>
-
-
----
-
 ### 📬 Contact
 **Email:** luis.mendez.l@utec.edu.pe  
 **LinkedIn:** https://www.linkedin.com/in/lf-mendez  
