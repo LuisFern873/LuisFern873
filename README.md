@@ -69,10 +69,7 @@ Comparative analysis for multilingual sentiment classification.
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luisfern873&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfern873&layout=compact" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfern873&show_icons=true&locale=en&layout=compact" alt="luisfern873" /></p>
 
 ---
 
