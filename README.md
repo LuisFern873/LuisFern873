@@ -41,35 +41,9 @@ I enjoy transforming data into scalable solutions, designing high-impact pipelin
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🔹 Smart Album — *Serverless AI Image Analyzer*
-Architecture based on events, multi-tenant, fully deployed on AWS.  
-Integrates AI models for advanced image processing.  
-🔗 Repo: https://github.com/LuisFern873/Cloud-Computing-course/tree/main/Smart%20Album%20(Final%20project)
-
-#### 🔹 Employee Manager TAMBO — *Microservices on AWS*
-Web application using Docker + AWS cloud deployment.  
-Implements secure authentication and real-time analytics.  
-🔗 Repo: https://github.com/LuisFern873/Cloud-Computing-course/tree/main/Employee%20manager%20TAMBO%20(Partial%20project)
-
-#### 🔹 PIRI — *Serverless Virtual Assistant for Prenatal Care*
-Multi-channel assistant (WhatsApp & Telegram) using OpenAI + Twilio.  
-Provisioned with AWS CDK and event-driven integration.  
-🔗 Repo: https://github.com/LuisFern873/PIRI-dev
-
-#### 🔹 Blockchain Manager — *Banking Transactions with Blockchain*
-High-performance blockchain implementation in C++.  
-🔗 Repo: https://github.com/LuisFern873/BlockChain-Project
-
-#### 🔹 Machine Learning Research — *BERT, CNN, BERT-CNN*
-Comparative analysis for multilingual sentiment classification.  
-🔗 Paper: https://github.com/LuisFern873/machine-learning-paper/blob/main/Machine_Learning_paper.pdf
-
----
-
 ### 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfern873&show_icons=true&locale=en&layout=compact" alt="luisfern873" /></p>
+
 
 ---
 
