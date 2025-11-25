@@ -42,7 +42,10 @@ I enjoy transforming data into scalable solutions, designing high-impact pipelin
 ---
 
 ### 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfern873&show_icons=true&locale=en&layout=compact" alt="luisfern873" /></p>
+
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfern873&show_icons=true&locale=en&layout=compact" alt="luisfern873" />
+</p>
 
 
 ---
